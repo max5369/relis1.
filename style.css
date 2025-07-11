@@ -1,0 +1,190 @@
+header h1 {
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 50px;
+}
+
+header {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+header img {
+    position: relative;
+    right: 600px;
+    bottom: 50px;
+    width: 35%;
+}
+
+header a {
+    border: 2px solid white;
+}
+
+
+.Jordan_a {
+    font-size: 60px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    left: 30%;
+    bottom: 400px;
+}
+
+.Nike_a {
+    font-size: 60px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    left: 49%;
+    bottom: 300px;
+}
+
+
+.Catalog_Nike h1 {
+    text-align: center;
+    font-size: 50px;
+    background-image: linear-gradient(to right, black, #50098a);
+    color: white;
+    margin-right: 600px;
+    margin-left: 600px;
+    border-radius: 10px;
+}
+
+
+main img:hover {
+    transform: scale(1.09999);
+    transition: 1s;
+}
+
+.cost {
+    text-align: center;
+    font-size: 30px;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 600px;
+    margin-right: 500px;
+    position: relative;
+    right: 40px;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+img {
+    box-shadow: 15px 15px 40px 25px rgb(90, 90, 90);
+}
+
+
+.Catalog_Jordan h1 {
+    text-align: center;
+    font-size: 50px;
+    background-image: linear-gradient(to right, black, #50098a);
+    color: white;
+    margin-right: 600px;
+    margin-left: 600px;
+    border-radius: 10px;
+}
+
+.name {
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    margin-left: 600px;
+    margin-right: 500px;
+    position: relative;
+    right: 40px;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+img {
+    width: 450px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+
+footer h1 {
+    font-size: 50px;
+    color: white;
+    padding: 40px;
+    position: relative;
+    top: 150px;
+}
+
+footer {
+    background-color: black;
+}
+
+
+footer .tiktok_Nike {
+    font-size: 50px;
+    position: relative;
+    right: 400px;
+    top: 120px;
+    color: white;
+    text-decoration: none;
+    border: 5px double white;
+}
+
+
+footer .tiktok_Jordan {
+    font-size: 50px;
+    position: relative;
+    left: 400px;
+    top: 120px;
+    color: white;
+    text-decoration: none;
+    border: 5px double white;
+}
+
+
+footer img {
+    width: 400px;
+    height: 200px;
+    position: relative; 
+    bottom: 300px;
+}
+
+iframe {
+    width: 1000px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.where {
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.video_block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px auto;
+}
+
+.video_block iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 340px;
+    border: 5px solid black;
+    margin: 15px;
+}
+
+footer {
+    background-color: black;
+    padding: 60px 20px 0px 20px;
+    text-align: center;
+    color: white;
+}
+
+.logo{
+    box-shadow: none;
+}
